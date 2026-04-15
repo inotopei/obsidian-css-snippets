@@ -1,0 +1,7 @@
+.nav-file-title,
+.nav-folder-title,
+.nav-file-title-content {
+  white-space: normal;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
