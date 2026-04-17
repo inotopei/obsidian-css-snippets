@@ -2,3 +2,8 @@
 .markdown-reading-view .metadata-add-button {
   display: none;
 }
+
+.canvas-node:has(.canvas-node-content-blocker) .metadata-properties-heading,
+.canvas-node:has(.canvas-node-content-blocker) .metadata-add-button {
+  display: none;
+}
